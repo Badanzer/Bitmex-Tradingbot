@@ -23,7 +23,7 @@ Sorry for my bad english :D
 3. If your Trade goes below -20% gains the trade will be closed and the bot waits for the next Signal.
 4. If your Trade goes above 18% gains he will set a Stoploss at Breakeven.
 5. If your Trade goes above 30% the bot will use a take profit method. The first take Profit point is at 10% and he will get higher when your gains are rising.
-6. When the bot get a new Signal through your Gmail he will close the open trade and open anotherone in the opposite direction.
+6. When the bot gets a new Signal through your Gmail he will close the open trade and open another one in the opposite direction.
 7. You also can set the Signals in the UI or close your open position and you can lock the bot if you don't like to open a new trade.
 
 # Here you can see the UI 
