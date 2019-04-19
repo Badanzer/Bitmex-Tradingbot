@@ -14,7 +14,7 @@ Sorry for my bad english :D
 1. Creat a new Gmail account and enable IMAP and allow less secure apps connecting to your account.
 2. Creat a API in your Bitmex acc.
 3. Set up your Tradingsignals (Tradingview alerts) or you just can send yourself a e-mail. You also can set the Signal direct in the UI.
-4.Fill in the UI (Bitmex API Key, Bitmex secret, Gmail login, Gmail pw, Subject in your e-mails for short and long positions, your quantity (Pleas use a low quantity for testing like 1) of the trades and also the leverage.
+4. Fill in the UI (Bitmex API Key, Bitmex secret, Gmail login, Gmail pw, Subject in your e-mails for short and long positions, your quantity (Pleas use a low quantity for testing like 1) of the trades and also the leverage.
 5. Start the bot and you are good to go. (Please keep in mind that trading on Bitmex is very risky)
 
 ## How does the bot work?
