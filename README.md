@@ -1,6 +1,7 @@
 # Bitmex-Tradingbot
 The Bot is reading Gmail Signals and opens short or long positions on Bitmex.
 You can set Alerts on Tradingview and Tradingview will send you a e-mail if the Alert gets triggered.
+For Signals I'm using this one https://marketgod.trade/.
 (Trade carefully and i don't take any liability for losses. So Please test your settings and the bot with a low quantitiy)
 
 I made this bot public because i haven't found anything like that and i think there should be a alternative to paying hundreds of dollars a month for a bad bot who doen't do what i want.
