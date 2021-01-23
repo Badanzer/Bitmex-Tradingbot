@@ -5,9 +5,6 @@ For Signals I'm using this one https://marketgod.trade/.
 (Trade carefully and i don't take any liability for losses. So Please test your settings and the bot with a low quantitiy)
 
 I made this bot public because i haven't found anything like that and i think there should be a alternative to paying hundreds of dollars a month for a bad bot who doen't do what i want.
-So if you like it, you are free to leave me a tip. Or use my Bitmex affiliate link: https://www.bitmex.com/register/oZ10Or
-
-BTC: 37fnYGhXBtRSqxHZMgEEdNB7PjbZNHFTVQ
 
 Sorry for my bad english :D
 
